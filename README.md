@@ -8,7 +8,7 @@
 - I have completed projects on **Physics-Informed Neural Networks (PINNs)**.
 - I love exploring new technologies and solving real-world problems.
 
-## How to Reach Me
+## Reach Me
 - [Email Me](mailto:vivethasri1808@gmail.com)
 - [LinkedIn](www.linkedin.com/in/vivethasri-c-513432362)
 
