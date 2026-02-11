@@ -4,8 +4,6 @@
 **Passionate about Data Science and Machine Learning**
 
 ## About Me
-- I’m currently pursuing my B.Tech AI and Data Science at Amrita Vishwa Vidyapeetham.
-- I have completed projects on **Physics-Informed Neural Networks (PINNs)**.
 - I love exploring new technologies and solving real-world problems.
 
 ## Reach Me
