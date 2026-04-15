@@ -8,6 +8,6 @@
 
 ## Reach Me
 - [Email Me](mailto:vivethasri1808@gmail.com)
-- [LinkedIn](www.linkedin.com/in/vivethasri-c-513432362)
+- [LinkedIn](https://www.linkedin.com/in/vivethasri-c-513432362)
 
 
